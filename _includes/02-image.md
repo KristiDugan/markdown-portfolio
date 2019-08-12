@@ -1,1 +1,1 @@
-![Profile image of KristiDugan](https://avatars0.githubusercontent.com/u/52792174?s=460&v=4)
+![Profile image of KristiDugan](https://octocat-generator-assets.githubusercontent.com/my-octocat-1565281976955.png)
